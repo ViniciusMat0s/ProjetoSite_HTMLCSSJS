@@ -1,6 +1,6 @@
 # Site Web
-## Projeto desenvolvido na introdução ao Bootstrap, feito 100% no Framework sem CSS
-#### Curso/Cadeira: Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01
+## Projeto desenvolvido na introdução ao Bootstrap, feito 100% no Framework sem CSS.
+#### Curso/Cadeira: Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01.
 
 ### O que usei?
 
