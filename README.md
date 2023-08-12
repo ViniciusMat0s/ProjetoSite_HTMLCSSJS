@@ -1,5 +1,6 @@
-# Calculadora de Gorjeta
-## Projeto desenvolvido através da Imersão Projeto Web do Zero, da OneBitCode
+# Site Web
+## Projeto desenvolvido na introdução ao Bootstrap, feito 100% no Framework sem CSS
+#### Curso/CadeiraÇ Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01
 
 ### O que usei?
 
